@@ -1,1 +1,3 @@
-PageTransformer使用示例，更多内容见[用PageTranformer实现更炫酷的动画](http://chiemy.com/android/great-animation-with-pagetranformer/)
+这只是一个缩减版的小Demo。
+
+真正完整版的全面酷炫VP，这我上传的    酷炫VP快速写法·.zip     包里。
